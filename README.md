@@ -1,6 +1,6 @@
-# flutter_sms
+#Flutter-Project1
 
-A new Flutter application.
+This project is basically the first time of me getting my hands dirty by developing a project on Flutter
 
 ## Getting Started
 
