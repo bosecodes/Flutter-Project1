@@ -1,4 +1,4 @@
-#Flutter-Project1
+# Flutter-Project1
 
 This project is basically the first time of me getting my hands dirty by developing a project on Flutter
 
